@@ -1,0 +1,17 @@
+{
+	"plugin-data":
+	{
+		"name": "GitHub Comments",
+		"description": "Add a comment section in your blog using GitHub issues."
+	},
+	"utterances-shortname": "Your GitHub repository",
+	"utterances-installation": "You need to create a public GitHub repository and <a href=\"https://github.com/apps/utterances\">install the Utterrances app</a> on it. Do you need help? <a href=\"https://algzb.com/github-comments-plugin-for-bludit\">Leave a comment</a>. ",
+	"utterances-repository": "Your Utterances Github repository",
+	"utterances-tip": "The public GitHub repo where you installed Utterrances (USER/REPO).",
+	"enable-utterances-on-pages": "Comments on pages",
+	"enable-utterances-on-static-pages": "Comments on static pages",
+	"enable-utterances-on-sticky-pages": "Comments on sticky pages",
+  "utterances-select-theme": "Select the comment section theme"
+
+
+}
