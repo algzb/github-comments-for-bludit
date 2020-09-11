@@ -1,8 +1,8 @@
 # GitHub comments plugin for Bludit
 
-GitHub Comments is a plugging for [Bludit File Manager System](https://www.bludit.com/). This plugin was modeled after the Disqus plugin for Bludit.
+Add a comment section to your blog using utterances, an open source lightweight comments system built on GitHub issues. GitHub Comments is a plugging for [Bludit](https://www.bludit.com/). This plugin was modeled after the Disqus plugin for Bludit.
 
-The plugin uses [Utterrrances](https://utteranc.es/), an open source lightweight comments system built on GitHub issues.
+The plugin uses [Utterrrances](https://utteranc.es/) to manage the comments.
 
 #Download
 
