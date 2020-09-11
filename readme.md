@@ -4,7 +4,7 @@ Add a comment section to your blog using utterances, an open source lightweight 
 
 The plugin uses [Utterrrances](https://utteranc.es/) to manage the comments.
 
-#Download
+## Download
 
 [Download the latest version.](https://github.com/algzb/github-comments-for-bludit/releases/tag/v1.0)
 
